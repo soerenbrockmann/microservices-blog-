@@ -1,3 +1,3 @@
-# Microservices Posts and Comments
+# Microservices Blog
 
-This is a simple Posts/Comments app example illustrating a microservice architecture.
+This is a simple Blog app example illustrating a microservice architecture.
